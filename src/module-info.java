@@ -1,0 +1,2 @@
+module arayüz_Polimorfizm {
+}
